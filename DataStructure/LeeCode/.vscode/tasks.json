@@ -1,0 +1,26 @@
+{
+    "tasks": [
+        {
+            "label": "c++ LeeCode g++",
+            "command": "g++",
+            "args": [
+                "${file}",
+                "-o",
+                "${workspaceFolder}/build/${fileBasenameNoExtension}",
+            ]
+        },
+        {
+            "label": "c++ LeeCode clang++",
+            "command": "/usr/bin/clang++",
+            "args": [
+                "-fcolor-diagnostics",
+                "-fansi-escape-codes",
+                "-g",
+                "${file}",
+                "-o",
+                "${workspaceFolder}/build/${fileBasenameNoExtension}",
+            ],
+        }
+    ],
+    "version": "2.0.0"
+}

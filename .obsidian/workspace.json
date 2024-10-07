@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "65f38598248c1573",
+    "type": "split",
+    "children": [
+      {
+        "id": "44ac8e5bf145b481",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5deab2ec4d405b87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OperationSystem/前置知識/Ubuntu下的cmake編譯環境初識.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "51509f8a2ec958bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "7469e5bdfddf761e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1cde14ff183aca2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6ecb04f15652226b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "90a184aa7a28c643",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 219.5
+  },
+  "right": {
+    "id": "8636aa3e58a4112f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a36523077435fb4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c95da00dd3c23a29",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OperationSystem/前置知識/Ubuntu下的cmake編譯環境初識.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d13fc5bebd816948",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "OperationSystem/前置知識/Ubuntu下的cmake編譯環境初識.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d72922df838052b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "920819609ef9ac01",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "OperationSystem/前置知識/Ubuntu下的cmake編譯環境初識.md"
+              }
+            }
+          },
+          {
+            "id": "4d899147d41a8eb8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 228.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "5deab2ec4d405b87",
+  "lastOpenFiles": [
+    "OperationSystem/前置知識/VirtualBox下的一些坑.md",
+    "OperationSystem/序章.md",
+    "OperationSystem/實驗/实验1/lib3-在各個平臺實現獲取當前函數的調用堆棧.md",
+    "OperationSystem/libaray/2-批处理OS/实验.md",
+    "OperationSystem/libaray/2-批处理OS/隔离.md",
+    "OperationSystem/libaray/3-multiprogrameOS/实验.md",
+    "OperationSystem/libaray/3-multiprogrameOS/进程.md",
+    "DataStructure/OJ/PA1/hint/PA1-1&1-2思路提示.pdf",
+    "OperationSystem/libaray/3-multiprogrameOS/p2-labs.pdf",
+    "OperationSystem/libaray/3-multiprogrameOS",
+    "Untitled",
+    "OperationSystem/进程/进程模型.md",
+    "OperationSystem/进程",
+    "OperationSystem/libaray/1-LibOS/LibOS.md",
+    "OperationSystem/class/物理内存管理.md",
+    "OperationSystem/class/week3/批處理操作系統.md",
+    "OperationSystem/libaray/2-批处理OS",
+    "OperationSystem/libaray/1-LibOS/p4-lab1.pdf",
+    "OperationSystem/libaray/1-LibOS",
+    "OperationSystem/實驗/LibOS.md",
+    "OperationSystem/實驗/libOS/LibOS.md",
+    "OperationSystem/實驗/libOS",
+    "OperationSystem/资料.md",
+    "ComputerNetwork/分組網絡的性能評估.md",
+    "ComputerNetwork/協議層次及服務模型.md",
+    "ComputerNetwork/Pasted image 20241005174236.png",
+    "ComputerNetwork/Internet結構和ISP.md",
+    "ComputerNetwork/Pasted image 20241005173700.png",
+    "ComputerNetwork/Pasted image 20241005171329.png",
+    "ComputerNetwork/未命名.md",
+    "ComputerNetwork/接入網與媒體.md",
+    "接入网和物理媒体.md",
+    "ComputerNetwork/網絡核心.md",
+    "ComputerNetwork/Pasted image 20241005165335.png",
+    "env/Mac/杂项.md",
+    "env/assets/iShot_2024-10-05_15.05.41.png",
+    "env/assets",
+    "env/Mac/AppScript.md",
+    "ComputerNetwork/Pasted image 20241002165735.png",
+    "ComputerNetwork/Pasted image 20241002164951.png",
+    "env/git/git.md",
+    "WebSpider/-.md",
+    "env/cpp-vscode/cpp-vscode.md",
+    "FangCun/FangCunDeskTop/FangCunDeskTop.canvas",
+    "env/cpp-vscode/iShot_2024-09-25_11.31.19.png",
+    "OperationSystem/img/Snipaste_2024-09-22_10-51-19.png",
+    "未命名.canvas",
+    "iShot_2024-09-18_09.57.00.png",
+    "OrganizationPrinciple/计算机组.canvas"
+  ]
+}
