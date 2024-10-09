@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "44ac8e5bf145b481",
+        "id": "c6505eb040c861ac",
         "type": "tabs",
         "children": [
           {
-            "id": "21b51d9751c153ad",
+            "id": "320208d550de7707",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ComputerNetwork/软件实验课.md",
+                "file": "西方哲學導論/怀疑主义.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ComputerNetwork/软件实验课.md",
+                "file": "西方哲學導論/怀疑主义.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ComputerNetwork/软件实验课.md",
+                "file": "西方哲學導論/怀疑主义.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ComputerNetwork/软件实验课.md"
+                "file": "西方哲學導論/怀疑主义.md"
               }
             }
           },
@@ -156,18 +156,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21b51d9751c153ad",
+  "active": "320208d550de7707",
   "lastOpenFiles": [
-    "Untitled.md",
-    "ComputerNetwork/软件实验课.md",
+    "西方哲學導論/ppt/知识论上的怀疑主义 24.pdf",
+    "西方哲學導論/怀疑主义.md",
+    "西方哲學導論/什麼是知識.md",
+    "西方哲學導論/ppt/lu55404ctuw.tmp",
+    "西方哲學導論/知识论上的怀疑主义 24.pptx",
+    "OperationSystem/进程/进程模型.md",
     "OperationSystem/序章.md",
+    "ComputerNetwork/软件实验课.md",
     "OperationSystem/libaray/2-批处理OS/实验.md",
     "OperationSystem/libaray/2-批处理OS/隔离.md",
     "OperationSystem/libaray/3-multiprogrameOS/进程.md",
     "OperationSystem/libaray/3-multiprogrameOS/实验.md",
     "OperationSystem/libaray/3-multiprogrameOS/p2-labs.pdf",
     "OperationSystem/libaray/1-LibOS/LibOS.md",
-    "OperationSystem/进程/进程模型.md",
     "OperationSystem/前置知識/Ubuntu下的cmake編譯環境初識.md",
     "OperationSystem/前置知識/VirtualBox下的一些坑.md",
     "OperationSystem/實驗/实验1/lib3-在各個平臺實現獲取當前函數的調用堆棧.md",
@@ -179,10 +183,8 @@
     "OperationSystem/class/week3/批處理操作系統.md",
     "OperationSystem/libaray/2-批处理OS",
     "OperationSystem/libaray/1-LibOS/p4-lab1.pdf",
-    "OperationSystem/libaray/1-LibOS",
     "OperationSystem/實驗/LibOS.md",
     "OperationSystem/實驗/libOS/LibOS.md",
-    "OperationSystem/實驗/libOS",
     "OperationSystem/资料.md",
     "ComputerNetwork/分組網絡的性能評估.md",
     "ComputerNetwork/協議層次及服務模型.md",
@@ -195,10 +197,7 @@
     "接入网和物理媒体.md",
     "ComputerNetwork/網絡核心.md",
     "ComputerNetwork/Pasted image 20241005165335.png",
-    "env/Mac/杂项.md",
     "env/assets/iShot_2024-10-05_15.05.41.png",
-    "env/assets",
-    "env/Mac/AppScript.md",
     "ComputerNetwork/Pasted image 20241002165735.png",
     "ComputerNetwork/Pasted image 20241002164951.png",
     "FangCun/FangCunDeskTop/FangCunDeskTop.canvas",
