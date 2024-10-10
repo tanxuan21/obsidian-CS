@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "65f38598248c1573",
+    "id": "d9354511dc802bd9",
     "type": "split",
     "children": [
       {
-        "id": "c6505eb040c861ac",
+        "id": "faf1eb0fcfd3af04",
         "type": "tabs",
         "children": [
           {
-            "id": "320208d550de7707",
+            "id": "2a89537a9a40c6f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "西方哲學導論/怀疑主义.md",
+                "file": "env/Mac/杂项.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "51509f8a2ec958bb",
+    "id": "ae6f69cc7903976a",
     "type": "split",
     "children": [
       {
-        "id": "7469e5bdfddf761e",
+        "id": "504a86fd77b7bee9",
         "type": "tabs",
         "children": [
           {
-            "id": "a1cde14ff183aca2",
+            "id": "34ced79e7f61a2fb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "6ecb04f15652226b",
+            "id": "e1cc33221d98d6c6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "90a184aa7a28c643",
+            "id": "0d2c14f116b967b2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 300
   },
   "right": {
-    "id": "8636aa3e58a4112f",
+    "id": "8cb381c48b8560db",
     "type": "split",
     "children": [
       {
-        "id": "a36523077435fb4b",
+        "id": "cd1d144a24af59c4",
         "type": "tabs",
         "children": [
           {
-            "id": "c95da00dd3c23a29",
+            "id": "4bacde42253d0b08",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "西方哲學導論/怀疑主义.md",
+                "file": "env/Mac/杂项.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "d13fc5bebd816948",
+            "id": "8f28e86f0715eb87",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "西方哲學導論/怀疑主义.md",
+                "file": "env/Mac/杂项.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2d72922df838052b",
+            "id": "d1ff510f377fe68c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,91 +120,81 @@
             }
           },
           {
-            "id": "920819609ef9ac01",
+            "id": "1add6d64ba5b79e9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "西方哲學導論/怀疑主义.md"
+                "file": "env/Mac/杂项.md"
               }
             }
-          },
-          {
-            "id": "4d899147d41a8eb8",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 228.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "320208d550de7707",
+  "active": "2a89537a9a40c6f1",
   "lastOpenFiles": [
-    "西方哲學導論/ppt/知识论上的怀疑主义 24.pdf",
-    "西方哲學導論/怀疑主义.md",
+    "DataStructure/class/sort/bubble-sort/makeData/index.cpp",
+    "DataStructure/class/sort/bubble-sort/code1/index.cpp",
+    "DataStructure/class/sort/bubble-sort/code0/index.cpp",
+    "DataStructure/class/sort/bubble-sort/test.cpp",
+    "DataStructure/class/sort/bubble-sort/test",
+    "DataStructure/class/sort/bubble-sort/makeData",
+    "DataStructure/class/sort/bubble-sort/index1.out",
+    "DataStructure/class/sort/bubble-sort/index.out",
+    "DataStructure/class/sort/bubble-sort/index.in",
+    "DataStructure/class/sort/bubble-sort/code1",
+    "DataStructure/class/sort/bubble-sort/code0",
     "西方哲學導論/什麼是知識.md",
-    "西方哲學導論/ppt/lu55404ctuw.tmp",
-    "西方哲學導論/知识论上的怀疑主义 24.pptx",
-    "OperationSystem/进程/进程模型.md",
-    "OperationSystem/序章.md",
-    "ComputerNetwork/软件实验课.md",
-    "OperationSystem/libaray/2-批处理OS/实验.md",
-    "OperationSystem/libaray/2-批处理OS/隔离.md",
+    "西方哲學導論/怀疑主义.md",
     "OperationSystem/libaray/3-multiprogrameOS/进程.md",
+    "ComputerNetwork/软件实验课.md",
     "OperationSystem/libaray/3-multiprogrameOS/实验.md",
-    "OperationSystem/libaray/3-multiprogrameOS/p2-labs.pdf",
-    "OperationSystem/libaray/1-LibOS/LibOS.md",
-    "OperationSystem/前置知識/Ubuntu下的cmake編譯環境初識.md",
-    "OperationSystem/前置知識/VirtualBox下的一些坑.md",
+    "OperationSystem/序章.md",
+    "創業思維/方向.md",
+    "other/mermaid/語法初試.md",
+    "env/ts-script/ts-script配置.md",
+    "env/git/git.md",
+    "env/cpp-vscode/iShot_2024-09-25_11.31.19.png",
+    "env/cpp-vscode/cpp-vscode.md",
+    "env/assets/iShot_2024-10-05_15.05.41.png",
+    "env/Mac/杂项.md",
+    "env/Mac/AppScript.md",
+    "WebSpider/-.md",
+    "OrganizationPrinciple/计算机组成原理.md",
+    "OrganizationPrinciple/计算机组.canvas",
+    "OrganizationPrinciple/數字表示.md",
+    "OrganizationPrinciple/BCD碼.md",
+    "OperationSystem/进程/进程模型.md",
+    "OperationSystem/考研/進程.md",
+    "OperationSystem/考研/環境.md",
+    "OperationSystem/考研/操作系統運行機制.md",
+    "OperationSystem/考研/操作系統引導.md",
     "OperationSystem/實驗/实验1/lib3-在各個平臺實現獲取當前函數的調用堆棧.md",
-    "DataStructure/OJ/PA1/hint/PA1-1&1-2思路提示.pdf",
-    "OperationSystem/libaray/3-multiprogrameOS",
-    "Untitled",
-    "OperationSystem/进程",
-    "OperationSystem/class/物理内存管理.md",
-    "OperationSystem/class/week3/批處理操作系統.md",
-    "OperationSystem/libaray/2-批处理OS",
-    "OperationSystem/libaray/1-LibOS/p4-lab1.pdf",
-    "OperationSystem/實驗/LibOS.md",
-    "OperationSystem/實驗/libOS/LibOS.md",
-    "OperationSystem/资料.md",
-    "ComputerNetwork/分組網絡的性能評估.md",
-    "ComputerNetwork/協議層次及服務模型.md",
+    "OperationSystem/前置知識/虛擬機.md",
+    "OperationSystem/前置知識/編譯與鏈接.md",
+    "OperationSystem/img/Snipaste_2024-09-22_10-51-19.png",
+    "FangCun/FangCunDeskTop/FangCunDeskTop.canvas",
     "ComputerNetwork/Pasted image 20241005174236.png",
-    "ComputerNetwork/Internet結構和ISP.md",
     "ComputerNetwork/Pasted image 20241005173700.png",
     "ComputerNetwork/Pasted image 20241005171329.png",
-    "ComputerNetwork/未命名.md",
-    "ComputerNetwork/接入網與媒體.md",
-    "接入网和物理媒体.md",
-    "ComputerNetwork/網絡核心.md",
     "ComputerNetwork/Pasted image 20241005165335.png",
-    "env/assets/iShot_2024-10-05_15.05.41.png",
     "ComputerNetwork/Pasted image 20241002165735.png",
-    "ComputerNetwork/Pasted image 20241002164951.png",
-    "FangCun/FangCunDeskTop/FangCunDeskTop.canvas",
-    "env/cpp-vscode/iShot_2024-09-25_11.31.19.png",
-    "OperationSystem/img/Snipaste_2024-09-22_10-51-19.png",
-    "未命名.canvas",
-    "iShot_2024-09-18_09.57.00.png",
-    "OrganizationPrinciple/计算机组.canvas"
+    "ComputerNetwork/Pasted image 20241002164951.png"
   ]
 }
