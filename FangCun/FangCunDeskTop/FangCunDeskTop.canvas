@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"65bf77791a9aece2","type":"group","x":420,"y":-620,"width":620,"height":720,"label":"DIV-desktop"},
+		{"id":"97b28ee3dbda60b6","type":"group","x":-60,"y":-460,"width":290,"height":340,"label":"DIV-desktop"},
+		{"id":"560241db6a578e1a","type":"group","x":480,"y":-120,"width":500,"height":150,"label":"SVG-widget-container"},
+		{"id":"2c5da03e6abb8f59","type":"group","x":450,"y":-325,"width":560,"height":130,"label":"DIV-origin-container"},
+		{"id":"89ee94e629c1dd65","x":480,"y":-540,"width":500,"height":130,"type":"group","label":"SVG-widget-container"},
+		{"id":"995235a6e6a10061","type":"file","file":"FangCun/FangCunDeskTop/事件结构.md","x":-500,"y":-475,"width":320,"height":305},
+		{"id":"e8d07a4273e5a266","type":"text","text":"DIV-origin-container","x":-40,"y":-320,"width":250,"height":60},
+		{"id":"0b204ff92ccb9ed9","type":"text","text":"SVG-widget-container","x":-40,"y":-200,"width":250,"height":60},
+		{"id":"69d7933bdee6d8cb","type":"text","text":"SVG-widget-container","x":-40,"y":-440,"width":250,"height":60},
+		{"id":"43d3d4ef81605bb8","type":"text","text":"link","x":560,"y":-60,"width":120,"height":60},
+		{"id":"5553d79c0b93ffd2","type":"text","text":"link","x":760,"y":-60,"width":120,"height":60},
+		{"id":"87dce4bc2421a289","type":"text","text":"select-cover","x":500,"y":-520,"width":130,"height":90},
+		{"id":"5548aecc0d798812","type":"text","text":"# item","x":470,"y":-305,"width":140,"height":90},
+		{"id":"4c52f2cd5aa4c1fb","type":"text","text":"# item","x":660,"y":-305,"width":140,"height":90},
+		{"id":"084f51bc0a84c578","type":"text","text":"# item","x":850,"y":-305,"width":140,"height":90}
+	],
+	"edges":[
+		{"id":"e7209ec6cf7c3013","fromNode":"995235a6e6a10061","fromSide":"right","toNode":"97b28ee3dbda60b6","toSide":"left"},
+		{"id":"6244b3a0c2646076","fromNode":"97b28ee3dbda60b6","fromSide":"right","toNode":"65bf77791a9aece2","toSide":"left"}
+	]
+}

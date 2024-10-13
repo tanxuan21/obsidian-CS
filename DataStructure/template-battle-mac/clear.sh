@@ -1,0 +1,2 @@
+echo 
+rm -rf build/

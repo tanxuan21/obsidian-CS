@@ -1,0 +1,16 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/tanxuan21/Documents/Obsidian/CS-obsidian/DataStructure/OJ/lab1/assets/code/rand_input'
+relocations:
+  - { offset: 0x46, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x10000391C, symSize: 0x354 }
+  - { offset: 0x23D8, size: 0x8, addend: 0x0, symName: __ZNSt3__118__constexpr_strlenB8ne180100EPKc, symObjAddr: 0x530, symBinAddr: 0x100003E4C, symSize: 0x24 }
+  - { offset: 0x30B9, size: 0x8, addend: 0x0, symName: __ZNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEC1B8ne180100ILi0EEEPKc, symObjAddr: 0x354, symBinAddr: 0x100003C70, symSize: 0x34 }
+  - { offset: 0x30F6, size: 0x8, addend: 0x0, symName: __ZNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEC2B8ne180100ILi0EEEPKc, symObjAddr: 0x398, symBinAddr: 0x100003CB4, symSize: 0x58 }
+  - { offset: 0x3138, size: 0x8, addend: 0x0, symName: __ZNSt3__117__compressed_pairINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE5__repES5_EC1B8ne180100INS_18__default_init_tagESA_EEOT_OT0_, symObjAddr: 0x3F0, symBinAddr: 0x100003D0C, symSize: 0x3C }
+  - { offset: 0x318E, size: 0x8, addend: 0x0, symName: __ZNSt3__111char_traitsIcE6lengthB8ne180100EPKc, symObjAddr: 0x42C, symBinAddr: 0x100003D48, symSize: 0x48 }
+  - { offset: 0x31B0, size: 0x8, addend: 0x0, symName: __ZNSt3__117__compressed_pairINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE5__repES5_EC2B8ne180100INS_18__default_init_tagESA_EEOT_OT0_, symObjAddr: 0x474, symBinAddr: 0x100003D90, symSize: 0x3C }
+  - { offset: 0x3206, size: 0x8, addend: 0x0, symName: __ZNSt3__122__compressed_pair_elemINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE5__repELi0ELb0EEC2B8ne180100ENS_18__default_init_tagE, symObjAddr: 0x4B0, symBinAddr: 0x100003DCC, symSize: 0x14 }
+  - { offset: 0x3238, size: 0x8, addend: 0x0, symName: __ZNSt3__122__compressed_pair_elemINS_9allocatorIcEELi1ELb1EEC2B8ne180100ENS_18__default_init_tagE, symObjAddr: 0x4C4, symBinAddr: 0x100003DE0, symSize: 0x2C }
+  - { offset: 0x326A, size: 0x8, addend: 0x0, symName: __ZNSt3__19allocatorIcEC2B8ne180100Ev, symObjAddr: 0x4F0, symBinAddr: 0x100003E0C, symSize: 0x2C }
+  - { offset: 0x3292, size: 0x8, addend: 0x0, symName: __ZNSt3__116__non_trivial_ifILb1ENS_9allocatorIcEEEC2B8ne180100Ev, symObjAddr: 0x51C, symBinAddr: 0x100003E38, symSize: 0x14 }
+...

@@ -1,0 +1,13 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/tanxuan21/Documents/Obsidian/CS-obsidian/DataStructure/OJ/PA1/interview/6280-blockArry'
+relocations:
+  - { offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003E60, symSize: 0x108 }
+  - { offset: 0x3F, size: 0x8, addend: 0x0, symName: _arr, symObjAddr: 0x5A70, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0x6F, size: 0x8, addend: 0x0, symName: _blockID, symObjAddr: 0x67540, symBinAddr: 0x100069AD0, symSize: 0x0 }
+  - { offset: 0x98, size: 0x8, addend: 0x0, symName: _blockSum, symObjAddr: 0x982A8, symBinAddr: 0x10009A838, symSize: 0x0 }
+  - { offset: 0xAD, size: 0x8, addend: 0x0, symName: _n, symObjAddr: 0xF9D78, symBinAddr: 0x1000FC308, symSize: 0x0 }
+  - { offset: 0xC2, size: 0x8, addend: 0x0, symName: _blockSize, symObjAddr: 0xF9D7C, symBinAddr: 0x1000FC30C, symSize: 0x0 }
+  - { offset: 0xDE, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003E60, symSize: 0x108 }
+  - { offset: 0x123, size: 0x8, addend: 0x0, symName: __ZNSt3__16__math4sqrtB8ne180100IiLi0EEEdT_, symObjAddr: 0x108, symBinAddr: 0x100003F68, symSize: 0x24 }
+...

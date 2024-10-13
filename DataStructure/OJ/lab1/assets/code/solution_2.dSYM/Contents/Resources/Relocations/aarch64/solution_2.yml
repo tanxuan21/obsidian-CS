@@ -1,0 +1,17 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/tanxuan21/Documents/Obsidian/CS-obsidian/DataStructure/OJ/lab1/assets/code/solution_2'
+relocations:
+  - { offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003A28, symSize: 0x368 }
+  - { offset: 0x3F, size: 0x8, addend: 0x0, symName: _matrix, symObjAddr: 0x7D58, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0x76, size: 0x8, addend: 0x0, symName: _rowsum, symObjAddr: 0xF4A158, symBinAddr: 0x100F4A400, symSize: 0x0 }
+  - { offset: 0x9A, size: 0x8, addend: 0x0, symName: __ZNSt3__16chronomiB8ne180100IxNS_5ratioILl1ELl1000000EEExS3_EENS_11common_typeIJNS0_8durationIT_T0_EENS5_IT1_T2_EEEE4typeERKS8_RKSB_, symObjAddr: 0x3F0, symBinAddr: 0x100003E18, symSize: 0x6C }
+  - { offset: 0x2E7, size: 0x8, addend: 0x0, symName: __ZNSt3__16chrono13duration_castB8ne180100INS0_8durationIxNS_5ratioILl1ELl1000000EEEEExS4_Li0EEET_RKNS2_IT0_T1_EE, symObjAddr: 0x368, symBinAddr: 0x100003D90, symSize: 0x30 }
+  - { offset: 0x334, size: 0x8, addend: 0x0, symName: __ZNSt3__16chronomiB8ne180100INS0_12system_clockENS0_8durationIxNS_5ratioILl1ELl1000000EEEEES6_EENS_11common_typeIJT0_T1_EE4typeERKNS0_10time_pointIT_S8_EERKNSC_ISD_S9_EE, symObjAddr: 0x398, symBinAddr: 0x100003DC0, symSize: 0x58 }
+  - { offset: 0x1161, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003A28, symSize: 0x368 }
+  - { offset: 0x1316, size: 0x8, addend: 0x0, symName: __ZNKSt3__16chrono10time_pointINS0_12system_clockENS0_8durationIxNS_5ratioILl1ELl1000000EEEEEE16time_since_epochB8ne180100Ev, symObjAddr: 0x45C, symBinAddr: 0x100003E84, symSize: 0x20 }
+  - { offset: 0x133A, size: 0x8, addend: 0x0, symName: __ZNKSt3__16chrono8durationIxNS_5ratioILl1ELl1000000EEEE5countB8ne180100Ev, symObjAddr: 0x47C, symBinAddr: 0x100003EA4, symSize: 0x18 }
+  - { offset: 0x1368, size: 0x8, addend: 0x0, symName: __ZNSt3__16chrono8durationIxNS_5ratioILl1ELl1000000EEEEC1B8ne180100IxLi0EEERKT_, symObjAddr: 0x494, symBinAddr: 0x100003EBC, symSize: 0x34 }
+  - { offset: 0x13AD, size: 0x8, addend: 0x0, symName: __ZNSt3__16chrono8durationIxNS_5ratioILl1ELl1000000EEEEC2B8ne180100IxLi0EEERKT_, symObjAddr: 0x4C8, symBinAddr: 0x100003EF0, symSize: 0x24 }
+  - { offset: 0x13FC, size: 0x8, addend: 0x0, symName: __ZNKSt3__16chrono15__duration_castINS0_8durationIxNS_5ratioILl1ELl1000000EEEEES5_NS3_ILl1ELl1EEELb1ELb1EEclB8ne180100ERKS5_, symObjAddr: 0x4EC, symBinAddr: 0x100003F14, symSize: 0x3C }
+...

@@ -1,0 +1,6 @@
+cd $(dirname $0)
+mkdir build
+clang++ ./test.cpp -o ./build/test
+echo 开始执行。输入0退出，输入任意值继续
+./build/test
+rm -rf build

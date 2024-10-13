@@ -1,0 +1,7 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/tanxuan21/Documents/Obsidian/CS-obsidian/DataStructure/OJ/lab1/assets/code/battle'
+relocations:
+  - { offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003D5C, symSize: 0xEC }
+  - { offset: 0x46, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003D5C, symSize: 0xEC }
+...

@@ -1,0 +1,6 @@
+cd $(dirname $0)
+git rm -r --cached .
+git add .gitignore
+git add .
+git commit -m update
+git push origin main

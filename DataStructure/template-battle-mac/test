@@ -1,0 +1,8 @@
+echo 
+mkdir build
+clang++ ./test.cpp -o ./build/test
+echo 开始执行。输入0退出，输入任意值继续
+echo 
+./build/test
+echo 
+./clear.sh

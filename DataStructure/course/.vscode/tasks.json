@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "command":"clang++",
+            "args": [
+                "${file}",
+                "-o",
+                "${workspaceFolder}/build/${fileBasenameNoExtension}",
+                "-g",
+            ],
+            "label": "DAS Course"
+        }
+    ]
+}
